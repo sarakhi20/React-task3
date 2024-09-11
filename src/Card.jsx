@@ -57,7 +57,7 @@ function Card({
 
         <div className=" card-group pt-5 d-flex justify-content-end">
           <button
-            className="btn btn-success"
+            className="btn-success"
             onClick={() => {
               setDescription(taskobj.Description);
               setTaskName(taskobj.Name);
@@ -67,7 +67,7 @@ function Card({
           >
             Edit
           </button>
-          <button className="btn btn-danger" onClick={handleDelete}>
+          <button className="btn-danger" onClick={handleDelete}>
             Delete
           </button>
         </div>

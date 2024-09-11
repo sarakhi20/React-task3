@@ -73,3 +73,12 @@
     padding: 5px; /* Adjust padding for smaller screens */
   }
 }
+.bg-success {
+  background-color: #66b266;
+  color: #fff;
+}
+
+.bg-danger {
+  background-color: #ff0000;
+  color: #fff;
+}
