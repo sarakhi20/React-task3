@@ -5,6 +5,7 @@
     justify-content: space-between;
     padding: 10px;
 }
+
 .card-group {
     display: flex;
     justify-content: end;
